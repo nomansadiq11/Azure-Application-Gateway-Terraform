@@ -8,8 +8,6 @@ This repo created to prevision the Application Gateway to configure the multiple
 - Virtual Network 
   - Subnet for Application Gateway
 - Application Gateway
-  - 
-
 
 ## Variables
 
